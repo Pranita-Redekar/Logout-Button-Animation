@@ -55,6 +55,7 @@ body {
   font-weight: 600;
   color: #1040c4;
   transition: 0.2s ease;
+  
 }
 
 .btn:active:before {
@@ -266,6 +267,5 @@ svg {
 
 .btn.logged-out .btn-text {
   font-size: 16px;
-  box-shadow: #b0acc2 0 0 5px 5px;
   color: rgb(121, 4, 4);
 }
