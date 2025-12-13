@@ -266,5 +266,6 @@ svg {
 
 .btn.logged-out .btn-text {
   font-size: 16px;
-  color: red;
+  box-shadow: #b0acc2 0 0 5px 5px;
+  color: rgb(121, 4, 4);
 }
